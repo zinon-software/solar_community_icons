@@ -6,7 +6,7 @@ homepage: https://github.com/zinon-software/solar_community_icons
 repository: https://github.com/zinon-software/solar_community_icons
 issue_tracker: https://github.com/zinon-software/solar_community_icons/issues
 
-version: 1.0.1
+version: 1.1.0
 
 platforms:
   android:
@@ -34,9 +34,9 @@ dev_dependencies:
 
 flutter:
   fonts:
-    - family: SolarBoldIcons
+    - family: SolarCommunityBoldIcons
       fonts:
         - asset: assets/fonts/solar_bold_icons.ttf
-    - family: SolarLinearIcons
+    - family: SolarCommunityLinearIcons
       fonts:
         - asset: assets/fonts/solar_linear_icons.ttf

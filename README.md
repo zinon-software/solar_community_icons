@@ -27,7 +27,7 @@ class IconWidget extends StatelessWidget {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Icon(SolarLinearIcons.bell),
+          Icon(SolarCommunityLinearIcons.bell),
           const SizedBox(height: 8),
           Text('Linear Bell Icon'),
         ],
