@@ -1,5 +1,5 @@
-name: solar_icon_pack_example
-description: "Example application from the Solar Icon Pack package."
+name: solar_community_icons_example
+description: "Example application from the solar community icons package."
 
 publish_to: "none"
 
@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.8
-  solar_icon_pack:
+  solar_community_icons:
     path: ../
 
 dev_dependencies:

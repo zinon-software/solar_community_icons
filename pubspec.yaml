@@ -1,10 +1,12 @@
-name: solar_icon_pack
-description: "Flutter package that provides Solar icons which is 7,500+ icons in 6 different styles."
+name: solar_community_icons
+description: "Flutter package providing Solar community icons in bold and linear styles."
 
 icon: assets/logo.png
-homepage: https://softyes.com.br
+homepage: https://github.com/zinon-software/solar_community_icons
+repository: https://github.com/zinon-software/solar_community_icons
+issue_tracker: https://github.com/zinon-software/solar_community_icons/issues
 
-version: 0.2.1
+version: 1.0.0
 
 platforms:
   android:

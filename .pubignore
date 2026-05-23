@@ -1,0 +1,11 @@
+.dart_tool/
+build/
+pubspec.lock
+example/pubspec.lock
+example/.dart_tool/
+example/build/
+example/android/local.properties
+example/ios/Flutter/ephemeral/
+example/ios/Flutter/flutter_export_environment.sh
+example/ios/Flutter/Generated.xcconfig
+example/macos/Flutter/ephemeral/

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:solar_icon_pack/solar_icon_pack.dart';
+import 'package:solar_community_icons/solar_community_icons.dart';
 
-const title = 'Solar Icon Pack';
+const title = 'solar community icons';
 
 void main() {
   runApp(const MyApp());

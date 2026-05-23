@@ -7,14 +7,13 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import '../lib/main.dart';
+import 'package:solar_community_icons_example/main.dart';
 
 void main() {
   testWidgets('builds the example app', (WidgetTester tester) async {
     await tester.pumpWidget(const MyApp());
 
-    expect(find.text('Solar Icon Pack'), findsOneWidget);
+    expect(find.text('solar community icons'), findsOneWidget);
     expect(find.byType(GridView), findsOneWidget);
   });
 }

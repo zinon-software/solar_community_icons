@@ -1,15 +1,7 @@
 # Changelog
 
-## 0.2.1
+## 1.0.0
 
-* Fix images
-
-## 0.2.0
-
-* Add 1,258 bold icons
-* Update example app
-
-## 0.1.0
-
-* Add 1,254 linear icons
-* Add example app
+* Initial release of `solar_community_icons`
+* Add bold and linear Solar community icon sets
+* Add Flutter-friendly exports and example app
