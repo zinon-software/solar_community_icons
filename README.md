@@ -1,11 +1,11 @@
-<img width="100" height="100" src="https://github.com/softyesti/solar_icon_pack/raw/main/assets/logo.png" alt="app logo">
+<img width="100" height="100" src="assets/logo.png" alt="solar community icons logo">
 
-# Solar Icon Pack
+# solar community icons
 
-Flutter package that provides Solar icons which is 7,500+ icons in 6 different styles.
-Made from the [Solar Icons Set (Vol.2)](https://www.figma.com/community/file/1396367368966571051/solar-icons-set-vol-2).
+Flutter package that provides Solar icons in a reusable Flutter-friendly API.
+Built from the [Solar Icons Set (Vol.2)](https://www.figma.com/design/DrZlZ8tqipdT50bDYOF2iR/Solar-Icons-Set--Vol.2---Community-?node-id=1-3&p=f&t=mmTR1lGiSr0mAt4M-0).
 
-Big thanks to [480 Design](https://www.figma.com/@480design) and [R4IN80W](https://www.figma.com/@voidrainbow), the creators of this awesome icon pack!
+Big thanks to [480 Design](https://www.figma.com/@480design) and [R4IN80W](https://www.figma.com/@voidrainbow), the creators of this icon set.
 
 ## Features
 
@@ -16,7 +16,7 @@ Big thanks to [480 Design](https://www.figma.com/@480design) and [R4IN80W](https
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:solar_icon_pack/solar_icon_pack.dart';
+import 'package:solar_community_icons/solar_community_icons.dart';
 
 class IconWidget extends StatelessWidget {
   const IconWidget();
@@ -39,9 +39,9 @@ class IconWidget extends StatelessWidget {
 
 ## Screenshots
 
-![Example App](https://github.com/softyesti/solar_icon_pack/raw/main/assets/screenshots/image.png)
+![Example App](assets/screenshots/image.png)
 
 ## Credits
 
-* SoftYes TI [\<softyes.com.br\>](https://softyes.com.br)
-* João Sereia [\<joao.sereia@softyes.com.br\>](mailto:joao.sereia@softyes.com.br)
+* Zinon Software
+* Solar Icons Set (Vol.2) community artwork

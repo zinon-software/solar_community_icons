@@ -1,8 +1,8 @@
 <img width="100" height="100" src="../assets/logo.png" alt="app logo">
 
-# Solar Icon Pack | Example
+# solar community icons | Example
 
-Example application from the [Solar Icon Pack](https://pub.dev/packages/solar_icon_pack) package.
+Example application from the [solar community icons](https://pub.dev/packages/solar_community_icons) package.
 
 ## Screenshot
 
