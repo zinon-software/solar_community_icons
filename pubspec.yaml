@@ -1,0 +1,40 @@
+name: solar_icon_pack
+description: "Flutter package that provides Solar icons which is 7,500+ icons in 6 different styles."
+
+icon: assets/logo.png
+homepage: https://softyes.com.br
+
+version: 0.2.1
+
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
+
+environment:
+  sdk: ^3.5.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+  very_good_analysis: ^6.0.0
+  icon_generator: ^4.0.3
+
+flutter:
+  fonts:
+    - family: SolarBoldIcons
+      fonts:
+        - asset: assets/fonts/solar_bold_icons.ttf
+    - family: SolarLinearIcons
+      fonts:
+        - asset: assets/fonts/solar_linear_icons.ttf
