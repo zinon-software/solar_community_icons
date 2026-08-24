@@ -9,3 +9,8 @@ analyzer:
     - "android/**"
     - "lib/**/*.g.dart"
     - "lib/firebase_options.dart"
+    - build/**
+    - web/**
+    - windows/**
+    - macos/**
+    - linux/**

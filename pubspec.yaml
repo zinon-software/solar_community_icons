@@ -2,11 +2,11 @@ name: solar_community_icons
 description: "Flutter package providing Solar community icons in bold and linear styles."
 
 icon: assets/logo.png
-homepage: https://github.com/zinon-software/solar_community_icons
-repository: https://github.com/zinon-software/solar_community_icons
-issue_tracker: https://github.com/zinon-software/solar_community_icons/issues
+homepage: https://github.com/ardev-dev/solar_community_icons
+repository: https://github.com/ardev-dev/solar_community_icons
+issue_tracker: https://github.com/ardev-dev/solar_community_icons/issues
 
-version: 1.1.0
+version: 1.1.1
 
 platforms:
   android:
